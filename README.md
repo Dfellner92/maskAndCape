@@ -1,3 +1,15 @@
+## Scripts
+
+````npm run dev````
+
+## DB
+
+Create a Collection named "todos" in MongoDB and configure connection in backend/server.js
+
+
+
+
+
 # maskAndCape
 
 ### Overview
@@ -27,6 +39,3 @@ image
 ### Links
 
 - [Live App] 
-
-
-
